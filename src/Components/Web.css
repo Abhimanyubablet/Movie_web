@@ -1,0 +1,31 @@
+   .Banner_webSeries{
+    background-image: url(https://wallpapercave.com/wp/wp6902879.jpg);
+    height: 700px;
+    width: 100%;
+    object-fit: cover;
+    object-position: 25% 75%;
+    margin-top: 5%;
+    position: relative;
+    }
+    .Text_webSeries{
+        z-index: 1;
+        color: white;
+        text-align: center;
+        margin:  auto;
+        width: 75%;
+        position: absolute;
+        top: 35%;
+        left: 7%;
+    }
+    .lorem_webSeries{
+        position: absolute;
+        margin: auto;
+        text-align: center;
+        margin-top: -20px;
+        font-size: 19px;
+    }
+    .Heading_webSeries{
+        font-size: 60px;
+        font-family: sans-serif; 
+        text-align: left;
+      }

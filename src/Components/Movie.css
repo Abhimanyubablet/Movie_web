@@ -1,0 +1,32 @@
+.Banner_Movie{
+    background-image: url(https://wallpapercave.com/wp/wp11092336.jpg);
+    height: 700px;
+    width: 100%;
+    object-fit: contain;
+    object-position: 35%  75%;
+    margin-top: 5%;
+    background-repeat: no-repeat;
+    position: relative;
+    
+}
+.Text{
+    z-index: 1;
+    color: white;
+    text-align: center;
+    position: absolute;
+    margin:  auto;
+    top: 38%;
+    left: 4%;
+}
+.lorem{
+    position: absolute;
+    margin: auto;
+    text-align: left;
+    margin-top: -20px;
+    font-size: 19px;
+}
+.Heading{
+    font-size: 60px;
+    font-family: sans-serif; 
+    text-align: left;
+  }

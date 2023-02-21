@@ -1,0 +1,42 @@
+form {
+    max-width: 300px;
+    margin: 10px auto;
+    padding: 10px 20px;
+    border-radius: 8px;
+  }
+  
+  h1 {
+    margin: 0 0 30px 0;
+    /* text-align: center; */
+  }
+  
+  input[type="text"]
+   {
+    background: rgba(255,255,255,0.1);
+    border: none;
+    font-size: 16px;
+    height: auto;
+    margin: 0;
+    outline: 0;
+    padding: 15px;
+    width: 100%;
+    background-color: #e8eeef;
+    color: #8a97a0;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 30px;
+  }
+  
+  
+  
+  @media screen and (min-width: 480px) {
+  
+    form {
+      max-width: 480px;
+    }
+  
+  }
+  .hov:hover{
+      background-color: green;
+      color: rgb(165, 40, 21);
+  }
+  
